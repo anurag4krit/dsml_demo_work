@@ -1,4 +1,10 @@
 hi Learning git
 2nd time reflecting
 3rd commit 
+
 B changes
+
+
+=======
+changes done on branch A and B -- both are fine
+
